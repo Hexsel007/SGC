@@ -1,2 +1,2 @@
 # SGC
-Sistema de Gestão Congregacional
+Sistema de Gestão Congregacional - Ambiente de Desenvolvimento
